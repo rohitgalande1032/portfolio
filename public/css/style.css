@@ -318,6 +318,10 @@ a{
     border-radius: 20px;
     outline:none;
 }
+.btn{
+    color:#eaeaea;
+}
+
 .contact_form{
     font-family: 'Roboto Mono', monospace;
     color: var(--SecondaryText);
